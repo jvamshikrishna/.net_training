@@ -1,0 +1,7 @@
+C:\Users\jvams\source\repos\practice\bin\Debug\practice.exe.config
+C:\Users\jvams\source\repos\practice\bin\Debug\practice.exe
+C:\Users\jvams\source\repos\practice\bin\Debug\practice.pdb
+C:\Users\jvams\source\repos\practice\obj\Debug\practice.csprojAssemblyReference.cache
+C:\Users\jvams\source\repos\practice\obj\Debug\practice.csproj.CoreCompileInputs.cache
+C:\Users\jvams\source\repos\practice\obj\Debug\practice.exe
+C:\Users\jvams\source\repos\practice\obj\Debug\practice.pdb
