@@ -21,10 +21,10 @@ namespace practice
                 
             Console.ReadKey();*/
 
-            /*even e = new even();
+            even e = new even();
             e.even_num();
             Console.ReadKey();
-            */
+            
 
             prime p = new prime();
             p.prime_num();
